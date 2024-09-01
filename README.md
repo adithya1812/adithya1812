@@ -15,3 +15,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=adithya1812&show_icons=true" />
 </picture>
 
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=adithya1812&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya1812&layout=compact)](https://github.com/adithya1812/)
